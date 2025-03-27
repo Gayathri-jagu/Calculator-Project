@@ -1,4 +1,3 @@
-console.log("Calculator Running")
 const inputValue = document.getElementById("user-input");
 const calculate = document
   .querySelectorAll(".operations")
